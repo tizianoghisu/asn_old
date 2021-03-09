@@ -1,8 +1,6 @@
 05/03/2021 11 E2 Psicologia dello sviluppo e dell'educazione
-01 A1 Logica matematica e matematiche complementari
-01 A2 Geometria e algebra
-01 A3 Analisi matematica, probabilità e statistica matematica
 
+05/03/2021 11 E2 Psicologia dello sviluppo e dell'educazione
 
 
 Si tratta di un semplice script in bash per controllare quando sono pubblicati gli esiti:
